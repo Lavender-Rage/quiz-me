@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: #b48cf5;
+    color: #333;
+}
+.main{
+    background: #fff;
+    width: 80%;
+    max-width: 600px;
+    margin: 100px auto;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.main h1{
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    border-bottom: 2px solid #b9b4b4;
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.quiz{
+    padding: 20px 0;
+}
+
