@@ -5,7 +5,7 @@
     Russia
     China
     Canada
-   *Answer: Russia*
+   *Answer: Russia* ADDED
 
 2. **Which ocean is the largest?**
     Atlantic Ocean
@@ -13,21 +13,21 @@
     Pacific Ocean
     Mediterranean Ocean
 
-   *Answer: Pacific Ocean*
+   *Answer: Pacific Ocean* ADDED
 
 3. **Which country is famous for the Eiffel Tower?**
     Italy
     France
     Spain
     England
-   *Answer: France*
+   *Answer: France* ADDED
 
 4. **What is the capital of Japan?**
     Kyoto
     Osaka
     Tokyo
     Nagoya
-   *Answer: Tokyo*
+   *Answer: Tokyo* ADDED
 
 5. **Which country is known for the Great Wall?**
     Japan
@@ -35,28 +35,28 @@
     Phillipines
     China
 
-   *Answer: China*
+   *Answer: China* ADDED
 
 6. **Which continent is the Sahara Desert located on?**
     Europe 
     Asia
     Africa
     South America
-   *Answer: Africa*
+   *Answer: Africa* ADDED
 
 7. **In which country would you find the cities of Sydney and Melbourne?**
     Australia
     Mexico
     Singapore
     Russia
-   *Answer: Australia*
+   *Answer: Australia* ADDED
 
 8. **Which country is shaped like a boot?**
     Greece
     Italy
     Mexico
     Brazil
-   *Answer: Italy*
+   *Answer: Italy* ADDED
 
 9. **What is the capital of Canada?**
     Toronto
