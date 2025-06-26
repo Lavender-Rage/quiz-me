@@ -1,0 +1,62 @@
+20 questions
+
+1. **What is the largest country in the world by land area?**
+   *Answer: Russia*
+
+2. **Which ocean is the largest?**
+   *Answer: Pacific Ocean*
+
+3. **Which country is famous for the Eiffel Tower?**
+   *Answer: France*
+
+4. **What is the capital of Japan?**
+   *Answer: Tokyo*
+
+5. **Which country is known for the Great Wall?**
+   *Answer: China*
+
+6. **Which continent is the Sahara Desert located on?**
+   *Answer: Africa*
+
+7. **In which country would you find the cities of Sydney and Melbourne?**
+   *Answer: Australia*
+
+8. **Which country is shaped like a boot?**
+   *Answer: Italy*
+
+9. **What is the capital of Canada?**
+   *Answer: Ottawa*
+
+10. **What language is primarily spoken in Brazil?**
+    *Answer: Portuguese*
+
+11. **Mount Everest lies on the border of Nepal and which other country?**
+    *Answer: China*
+
+12. **Which U.S. state is the Grand Canyon located in?**
+    *Answer: Arizona*
+
+13. **What is the smallest country in the world?**
+    *Answer: Vatican City*
+
+14. **Which country is known for its pyramids and the Nile River?**
+    *Answer: Egypt*
+
+15. **Which European city is known for the Colosseum?**
+    *Answer: Rome*
+
+16. **Which continent has the most countries?**
+    *Answer: Africa*
+
+17. **What is the currency of the United Kingdom?**
+    *Answer: Pound sterling*
+
+18. **Which country has the city of Rio de Janeiro?**
+    *Answer: Brazil*
+
+19. **What is the capital city of Mexico?**
+    *Answer: Mexico City*
+
+20. **Which Asian country is known as the “Land of the Rising Sun”?**
+    *Answer: Japan*
+
