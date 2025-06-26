@@ -1,62 +1,144 @@
 20 questions
 
 1. **What is the largest country in the world by land area?**
+    India
+    Russia
+    China
+    Canada
    *Answer: Russia*
 
 2. **Which ocean is the largest?**
+    Atlantic Ocean
+    Indian Ocean
+    Pacific Ocean
+    Mediterranean Ocean
+
    *Answer: Pacific Ocean*
 
 3. **Which country is famous for the Eiffel Tower?**
+    Italy
+    France
+    Spain
+    England
    *Answer: France*
 
 4. **What is the capital of Japan?**
+    Kyoto
+    Osaka
+    Tokyo
+    Nagoya
    *Answer: Tokyo*
 
 5. **Which country is known for the Great Wall?**
+    Japan
+    Singapore
+    Phillipines
+    China
+
    *Answer: China*
 
 6. **Which continent is the Sahara Desert located on?**
+    Europe 
+    Asia
+    Africa
+    South America
    *Answer: Africa*
 
 7. **In which country would you find the cities of Sydney and Melbourne?**
+    Australia
+    Mexico
+    Singapore
+    Russia
    *Answer: Australia*
 
 8. **Which country is shaped like a boot?**
+    Greece
+    Italy
+    Mexico
+    Brazil
    *Answer: Italy*
 
 9. **What is the capital of Canada?**
+    Toronto
+    Quebec
+    Ontario
+    Ottawa
    *Answer: Ottawa*
 
 10. **What language is primarily spoken in Brazil?**
+    Spanish
+    Italian
+    Portuguese
+    English
     *Answer: Portuguese*
 
 11. **Mount Everest lies on the border of Nepal and which other country?**
+    Russia
+    Kazakhstan
+    Pakistan
+    China
     *Answer: China*
 
 12. **Which U.S. state is the Grand Canyon located in?**
+    Arizona
+    Texas
+    California
+    Colorado
     *Answer: Arizona*
 
 13. **What is the smallest country in the world?**
+    Switzerland
+    Tuvalu
+    Vatican City
+    Monaco
     *Answer: Vatican City*
 
 14. **Which country is known for its pyramids and the Nile River?**
+    Nigeria
+    Algeria
+    Saudia Arabia
+    Egypt
     *Answer: Egypt*
 
 15. **Which European city is known for the Colosseum?**
+    Berlin
+    Paris 
+    Athens
+    Rome
     *Answer: Rome*
 
 16. **Which continent has the most countries?**
+    Europe
+    Asia
+    Africa
+    South America
     *Answer: Africa*
 
 17. **What is the currency of the United Kingdom?**
+    Dollars
+    Rupees
+    Yen
+    Pound sterling
     *Answer: Pound sterling*
 
 18. **Which country has the city of Rio de Janeiro?**
+    Peru
+    Mexico
+    Brazil
+    Colombia
     *Answer: Brazil*
 
 19. **What is the capital city of Mexico?**
+    Guadalajara
+    Tijuana
+    Leon
+    Mexico City
     *Answer: Mexico City*
 
-20. **Which Asian country is known as the “Land of the Rising Sun”?**
+20. **Which country in Asia is known as the “Land of the Rising Sun”?**
+    Japan
+    China
+    North Korea
+    South Korea
     *Answer: Japan*
 
