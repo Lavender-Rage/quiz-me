@@ -41,7 +41,7 @@ const questions = [
         { text: "Greece", correct: false},
         { text: "Italy", correct: true},
         { text: "Mexico", correct:false},
-        { text: "Brail", correct: false},
+        { text: "Brazil", correct: false},
     ]
   },
   {
@@ -108,7 +108,7 @@ function startQuiz (){
 function showQuestion (){
     resetState();
     let currentQuestion = questions[currentQuestionIndex];
-    let questionNo = currentlQuestionIndex + 1;
+    let questionNo = currentQuestionIndex + 1;
     questionElement.innerHTML = questionNo + " . " + currentQuestion.question;
 
     currentQuestion.answers.forEach(answer => {
@@ -144,7 +144,7 @@ function selectAnswer(e){
     if(button.dataset.correct === "true"){
       button.classList.add("correct");
     }
-    button.disable = true;
+    button.disabled = true;
   });
   nextButton.style.display = "block";
 }
@@ -156,7 +156,7 @@ function showScore(){
   nextButton.style.display = "block";
   }
 
-function handleNextButton{
+function handleNextButton() {
   currentQuestionIndex++; 
   if(currentQuestionIndex < questions.length){
     showQuestion();
