@@ -9,7 +9,7 @@ const questions = [
     ]
   },
   {
-    question: "What ocean is the largest?",
+    question: "Which ocean is the largest?",
     answers: [
         { text: "Atlantic Ocean", correct: false},
         { text: "Indian Ocean", correct: false},
@@ -81,7 +81,7 @@ const questions = [
     ]
   },
   {
-  question: "What is the smallest country in the world?",
+  question: "What is the smallest city in the world?",
     answers: [
         { text: "Switzerland", correct: false},
         { text: "Tuvalu", correct: false},
