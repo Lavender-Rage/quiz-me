@@ -49,3 +49,17 @@ p{
 
 }
 
+.correct {
+    background: green;
+}
+.incorrect{
+    background: red;
+}
+.btn:hover:not([disabled]){
+    background: #222;
+    color: #fff;
+}
+.btn:disabled{
+    cursor:no-drop;
+}
+
